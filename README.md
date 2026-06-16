@@ -18,13 +18,13 @@
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project analyzes employee attrition patterns across a 1,470-employee organization to identify the key drivers of turnover. The analysis covers salary gaps, overtime impact, satisfaction scores, career progression, and demographic trends — all validated with statistical testing and visualized through an interactive Power BI dashboard.
 
 ---
 
-## ❓ Problem Statement
+## Problem Statement
 
 The organization has been experiencing employee attrition, which is starting to impact productivity and overall performance. The goal is to understand **why employees are leaving** and **which factors are contributing most** to turnover.
 
@@ -32,7 +32,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 | Detail | Info |
 |--------|------|
@@ -47,7 +47,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -58,7 +58,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 
 ---
 
-## ⚙️ Methods
+## Methods
 
 **1. Data Preparation (Python)**
 - Loaded and inspected the dataset (shape, dtypes, statistical summary)
@@ -84,7 +84,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 ### 🔴 Attrition
 - Overall attrition rate is **16.00%** — 237 out of 1,470 employees left
@@ -114,7 +114,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 The Power BI dashboard spans 5 pages with dynamic slicers for Gender, Marital Status, Department, Job Role, and Overtime.
 
@@ -139,7 +139,7 @@ The Power BI dashboard spans 5 pages with dynamic slicers for Gender, Marital St
 ---
 
 
-## ✅ Results & Conclusions
+## Results & Conclusions
 
 This project confirmed that employee attrition is not driven by a single factor — it is the result of multiple overlapping pressures acting on specific employee segments.
 
@@ -155,7 +155,7 @@ The project demonstrates how combining Python, SQL, and Power BI enables a full-
 
 ---
 
-## 👤 Author & Contact
+## Author & Contact
 
 **[Sazzad Soyeb]**
 
