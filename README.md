@@ -37,7 +37,7 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 | Detail | Info |
 |--------|------|
 | **Rows** | 1,470 employees |
-| **Columns** | 28 features |
+| **Columns** | 27 features |
 | **Target Variable** | `Attrition` (Yes / No) |
 | **Type** | Structured, tabular data |
 
