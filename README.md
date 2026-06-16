@@ -119,22 +119,22 @@ Using the dataset, the analysis examines employee salary, job role, work experie
 The Power BI dashboard spans 5 pages with dynamic slicers for Gender, Marital Status, Department, Job Role, and Overtime.
 
 ### Page 1 — Introduction
-![Executive Overview](Dashboard_Screenshots/Introduction.PNG)
+![Executive Overview](Dashboard_Screenshots/Introduction.png)
 
 ### Page 2 — Executive Overview
-![Executive Overview](Dashboard_Screenshots/Executive_Overview.PNG)
+![Executive Overview](Dashboard_Screenshots/Executive_Overview.png)
 
 ### Page 3 — Attrition Deep Dive
-![Attrition Deep Dive](Dashboard_Screenshots/Attrition_Deep_Dive.PNG)
+![Attrition Deep Dive](Dashboard_Screenshots/Attrition_Deep_Dive.png)
 
 ### Page 4 — Salary & Compensation
-![Salary & Compensation](Dashboard_Screenshots/Salary_And_Compensation.PNG)
+![Salary & Compensation](Dashboard_Screenshots/Salary_And_Compensation.png)
 
 ### Page 5 — Employee Satisfaction
-![Employee Satisfaction](Dashboard_Screenshots/Employee_Satisfaction.PNG)
+![Employee Satisfaction](Dashboard_Screenshots/Employee_Satisfaction.png)
 
 ### Page 6 — Career Analysis
-![Career Analysis](Dashboard_Screenshots/Career_Analysis.PNG)
+![Career Analysis](Dashboard_Screenshots/Career_Analysis.png)
 
 ---
 
